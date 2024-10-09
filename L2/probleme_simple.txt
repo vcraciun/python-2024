@@ -1,0 +1,59 @@
+1.
+Scrieti o functie care converteste un numar din baza 10 in baza 2
+Functia va primi ca parametru numarul in baza 10 si va returna reprezentarea string in baza 2
+Numerele convertite in baza 2 vor avea la inceput prefixul "0b"
+Nu este permisa utilizarea conversiilor din python
+
+2.
+Scrieti o functie care converteste un numar din baza 2 in baza 16
+Functia va primi ca parametru numarul in baza 2 dar ca valoare numerica in baza 10 (nu sir de caractere)
+Numarul final trebuie sa fie o reprezentare string in baza 16 cu prefixul "0x"
+Nu este permisa utilizarea conversiilor din python
+
+3.
+Srieti o functie care primeste 2 parametri (un sir de 4 caractere unice si un numar)
+Functia ve returna conversia numarului din baza 10, in baza data de lungimea sirului de caractere, iar cifrele numarului final vor fi caracterele din sir
+Exemplu: sir = "abcd" (deducem ca baza destinatie este 4)
+         nr = 301
+         301 / 4 = 75 r 1
+         75 / 4 = 18 r 3
+         18 / 4 = 4 r 2
+         4 / 4 = 1 r 0
+         1 / 4 = 0 r 1
+         resturile in ordine inversa sunt 10231 dar fom folosi cifrele pe post de indexi in sirul de caractere si vom obtine: "bacdb"
+
+4.
+Scrieti o functie care converteste un numar din baza 10 in baza 16
+Functia va primi ca parametru numarul in baza 10 si va returna reprezentarea string in baza 16
+Numerele convertite in baza 16 vor avea la inceput prefixul "0x"
+Nu este permisa utilizarea conversiilor din python
+
+5.
+Srieti o functie care primeste ca parametru o expreise matematica cu paranteze rotunde si verifica daca parantezarea este sau nu corecta
+Exemplu 1: "6+8*(5+3/2-1+6/(3+9)-7*(5+7/3))" va returna True
+Exemplu 2: "8-4*(3+7/8+4/(5-9)" va returna False
+
+6.
+Srieti o functie care primeste ca parametru o propozitie si afiseaza pe cate o linie, reprezentarea hex pentru codurile ASCII a caracterelor din fiecare cuvant
+Practic orice cuvant va fi rescris pe o linie nou, dar in format hex (cate 2 digiti per caracter, toti digitii uniti intre ei)
+Exemplu, pentru "abc 012" se va afisa
+616263
+303132         
+
+7.
+Srieti o functie care primeste ca parametru urmatoarea propozitie:
+"A fost, de asemenea, Remarcabil pentru Razboaiele persane si Pentru razboaiele Dintre orasele-state Grecesti."
+Functia va returna numarul de caractere scrise cu majuscula
+
+8.
+Generati permutarea 218553019 a cuvantului format din 6 caractere folosind alfabetul "AEGIJLNOPSUVbdefhimnoprstuvwxy". Primul cuvant este "AAAAAA" iar ultimul este "yyyyyy"
+Care este cuvantul?
+Descrieti 3 mecanisme si sortati-le crescator in ordinea performantei pentru a gasi indexul oricarui cuvant dat
+
+9. extrageti si afisati primul si ultimul caracter (impreuna ca si cum ar fi cuvinte diferite, separate de cate 1 spatiu) de la toate cuvintele dintr-o propozitie data
+
+10. rescrieti cuvintele unei propozitii, in ordine inversa
+
+11. Cate vocale si consoane sunt intr-un text dat?
+
+12. verificati daca un numar este palindrom, folosind doar calcule simple, fara conversii la string
