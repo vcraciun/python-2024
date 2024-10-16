@@ -1,0 +1,57 @@
+1.
+Se da fisierul JSON care contine o lista de studenti cu notele luate in timpul semestrului la o materie. 
+https://pastebin.com/6jet8F8q
+Fisierul JSON are urmatorul format:  
+Nume student, 13 note la seminarii (intre 1 si 10), o nota la un test partial (maxim 100p), o nota la testul de curs (maxim 100p), o nota la un proiect (maxim 70p).
+Cele 13 note in total valoreaza 20% din nota finala
+Notele la cele 2 teste valoreaza fiecare cate 30% din nota finala
+Proiectul valoreaza 20% din nota finala
+Un student trace daca per total cumuleaza 45% din totalul de puncte
+Cati studenti au trecut si cati studenti au picat materia?
+
+2. 
+cautati in toate fisierele de pe disk, fisiere mari care ar putea fi sterse si generati 2 tipuri de date:
+a) un grafic histograma la consola
+b) pentru fiecare bara pe Y, cate 1 fisier in care sa vedem sortate descrescator dupa dimensiune, path-urile
+Precizari: 
+- graficul histograma va contine pe Y numarul de fisiere (daca avem de ordinul miilor valoarea va fi scalata in jos la maxim 40)
+- pe X vom avea grupuri de dimensiune pentru fisiere, maxim 30 de grupuri iar cea mai mica dimensiune ar trebui sa inceapa la 200MB, si sa avem 300MB distanta intre grupuri (Ex: 200-300, 300-600, 600-900, ...., 8900-10000)
+- daca avem 30 de grupuri atunci avem si 30 de fisiere intermediare JSON, unde vom avea fisierele din grup, sortate descrescator dupa size (cel mai mare primul) sub forma: {"SIZE": "PATH"}
+
+3. un program incearca sa ghiceasca captcha-uri text in imagini cu zgomot
+in urma unor filtrari, s-au obtinut 20 de fisiere JSON cate 1 per captcha, in folderul "date_captcha"
+datele din fiecare JSON sunt organizate astfel:
+{"char1": [[X_offset, char_X_size, pixel_distance], [...], [...], [...], [...]], "char2", ......}
+deoarece un captcha are fix 5 caractere si oricare litera 'A'-'Z' poate apare de mai multe ori, pentru fiecare caracter s-au obtinut 5 posibile solutii de pozitionare.
+Exemplu concret: 'A': [[25, 50, 6776], [24, 50, 6798], [26, 50, 6802], [27, 50, 6880], [23, 50, 6902]]
+Noi trebuie sa extragem secventa de caractere care reprezinta un captcha ghicit, filtrand aceste date, dupa cum urmeaza:
+- nu avem voie ca la o pozitie pe X determinata de primul numar din perechea de 3, sa am mai multe caractere in range-ul caracter anterior +- 30
+- prima pozitie posibile care o vom selecta este cea cu distanta cea mai mica (data de al 3-lea numar)
+- ulterior celelalte pozitii pica sau raman in functie de distanta fata de pozitiile selectate anterior
+
+Exemplu: 
+- prima data o sa aleg prima pereche pentru ca ultimul numar 6776 este cel mai mic
+- calculez distantele fata de toate celelalte ramase si exclud orice are distanta < 30, astfel raman doar cu prima pereche
+
+Dupa ce obtin doar perechile posibile, trebuie sa transform reprezentarea datelor astfel incat sa pot ordona elementele din dictionar dupa pozitia pe X. 
+Mai jos sunt cele 20 de rezultate care trebuie obtinute pentru toate cele 20 de fisiere JSON:
+AVLU
+CBQHF
+SVORL
+WBLNR
+IZYS
+LCJYE
+NYZBC
+OFFHV
+TWAII
+SNQMG
+BMRJC
+FBMY
+GURQL
+QNILI
+RBC
+SEYAI
+NEKO
+PZXMN
+PUJRH
+LGGET

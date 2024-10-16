@@ -6,3 +6,10 @@ Daca este necesar, unele calcule se pot muta in functii separate
 
 Pentru implementare, urmariti algoritmul Digit-by-digit calculation prezentat aici:
 https://en.wikipedia.org/wiki/Methods_of_computing_square_roots
+
+
+
+
+Generati permutarea 218553019 a cuvantului format din 6 caractere folosind alfabetul "AEGIJLNOPSUVbdefhimnoprstuvwxy". Primul cuvant este "AAAAAA" iar ultimul este "yyyyyy"
+Care este cuvantul?
+Descrieti 3 mecanisme si sortati-le crescator in ordinea performantei pentru a gasi indexul oricarui cuvant dat

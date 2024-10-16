@@ -45,11 +45,6 @@ Srieti o functie care primeste ca parametru urmatoarea propozitie:
 "A fost, de asemenea, Remarcabil pentru Razboaiele persane si Pentru razboaiele Dintre orasele-state Grecesti."
 Functia va returna numarul de caractere scrise cu majuscula
 
-8.
-Generati permutarea 218553019 a cuvantului format din 6 caractere folosind alfabetul "AEGIJLNOPSUVbdefhimnoprstuvwxy". Primul cuvant este "AAAAAA" iar ultimul este "yyyyyy"
-Care este cuvantul?
-Descrieti 3 mecanisme si sortati-le crescator in ordinea performantei pentru a gasi indexul oricarui cuvant dat
-
 9. extrageti si afisati primul si ultimul caracter (impreuna ca si cum ar fi cuvinte diferite, separate de cate 1 spatiu) de la toate cuvintele dintr-o propozitie data
 
 10. rescrieti cuvintele unei propozitii, in ordine inversa
