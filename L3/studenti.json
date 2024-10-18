@@ -1,0 +1,2002 @@
+{
+    "Spartan Sorana": {
+        "seminarii": [
+            2,
+            7,
+            9,
+            1,
+            6,
+            10,
+            7,
+            6,
+            5,
+            4,
+            7,
+            7,
+            5
+        ],
+        "partial": 83,
+        "curs": 24,
+        "proiect": 60
+    },
+    "Popescu Bogdan": {
+        "seminarii": [
+            2,
+            1,
+            9,
+            5,
+            4,
+            4,
+            7,
+            1,
+            3,
+            7,
+            2,
+            8,
+            3
+        ],
+        "partial": 98,
+        "curs": 81,
+        "proiect": 47
+    },
+    "Calancea Petruta": {
+        "seminarii": [
+            7,
+            10,
+            6,
+            7,
+            1,
+            10,
+            8,
+            4,
+            9,
+            9,
+            6,
+            1,
+            1
+        ],
+        "partial": 99,
+        "curs": 10,
+        "proiect": 61
+    },
+    "Prelipcean Valter": {
+        "seminarii": [
+            9,
+            3,
+            6,
+            8,
+            6,
+            7,
+            2,
+            6,
+            9,
+            3,
+            9,
+            2,
+            6
+        ],
+        "partial": 91,
+        "curs": 94,
+        "proiect": 43
+    },
+    "Moale Cosmin": {
+        "seminarii": [
+            5,
+            8,
+            3,
+            3,
+            9,
+            10,
+            10,
+            1,
+            3,
+            5,
+            6,
+            9,
+            1
+        ],
+        "partial": 58,
+        "curs": 13,
+        "proiect": 20
+    },
+    "Stirbu Mihai": {
+        "seminarii": [
+            4,
+            6,
+            4,
+            5,
+            1,
+            10,
+            8,
+            7,
+            7,
+            3,
+            5,
+            4,
+            9
+        ],
+        "partial": 31,
+        "curs": 61,
+        "proiect": 61
+    },
+    "Spinu Radu": {
+        "seminarii": [
+            7,
+            9,
+            5,
+            10,
+            1,
+            9,
+            4,
+            4,
+            3,
+            4,
+            6,
+            3,
+            10
+        ],
+        "partial": 56,
+        "curs": 36,
+        "proiect": 47
+    },
+    "Panainte Florin": {
+        "seminarii": [
+            8,
+            3,
+            3,
+            5,
+            7,
+            7,
+            1,
+            7,
+            1,
+            2,
+            4,
+            7,
+            3
+        ],
+        "partial": 41,
+        "curs": 95,
+        "proiect": 49
+    },
+    "Filioreanu Florentina": {
+        "seminarii": [
+            3,
+            1,
+            5,
+            4,
+            8,
+            4,
+            2,
+            10,
+            3,
+            5,
+            4,
+            10,
+            1
+        ],
+        "partial": 94,
+        "curs": 80,
+        "proiect": 26
+    },
+    "Vieriu Mihaela": {
+        "seminarii": [
+            1,
+            3,
+            7,
+            5,
+            6,
+            3,
+            3,
+            1,
+            1,
+            5,
+            8,
+            3,
+            5
+        ],
+        "partial": 71,
+        "curs": 74,
+        "proiect": 41
+    },
+    "Boistean Lica": {
+        "seminarii": [
+            9,
+            10,
+            7,
+            6,
+            5,
+            1,
+            9,
+            10,
+            2,
+            9,
+            7,
+            6,
+            2
+        ],
+        "partial": 38,
+        "curs": 55,
+        "proiect": 44
+    },
+    "Vieriu Cosmin": {
+        "seminarii": [
+            7,
+            3,
+            6,
+            8,
+            8,
+            10,
+            8,
+            8,
+            1,
+            4,
+            2,
+            5,
+            7
+        ],
+        "partial": 83,
+        "curs": 39,
+        "proiect": 45
+    },
+    "Viteazu Florin": {
+        "seminarii": [
+            2,
+            9,
+            3,
+            10,
+            8,
+            1,
+            6,
+            6,
+            6,
+            9,
+            10,
+            6,
+            7
+        ],
+        "partial": 97,
+        "curs": 36,
+        "proiect": 42
+    },
+    "Trandabat Ana": {
+        "seminarii": [
+            7,
+            6,
+            4,
+            5,
+            7,
+            4,
+            9,
+            10,
+            2,
+            6,
+            10,
+            1,
+            8
+        ],
+        "partial": 73,
+        "curs": 63,
+        "proiect": 44
+    },
+    "Petrescu Cosmin": {
+        "seminarii": [
+            1,
+            4,
+            10,
+            3,
+            10,
+            7,
+            6,
+            3,
+            1,
+            4,
+            8,
+            8,
+            10
+        ],
+        "partial": 33,
+        "curs": 30,
+        "proiect": 67
+    },
+    "Vieriu Gabriela": {
+        "seminarii": [
+            2,
+            3,
+            3,
+            5,
+            4,
+            4,
+            7,
+            4,
+            4,
+            8,
+            9,
+            7,
+            8
+        ],
+        "partial": 15,
+        "curs": 73,
+        "proiect": 51
+    },
+    "Stirbu Gabriela": {
+        "seminarii": [
+            3,
+            3,
+            6,
+            3,
+            9,
+            9,
+            10,
+            9,
+            4,
+            9,
+            4,
+            3,
+            8
+        ],
+        "partial": 13,
+        "curs": 80,
+        "proiect": 63
+    },
+    "Moale Valter": {
+        "seminarii": [
+            5,
+            3,
+            5,
+            7,
+            3,
+            3,
+            6,
+            6,
+            9,
+            1,
+            9,
+            6,
+            5
+        ],
+        "partial": 92,
+        "curs": 83,
+        "proiect": 33
+    },
+    "Borcea Radu": {
+        "seminarii": [
+            2,
+            9,
+            1,
+            4,
+            8,
+            2,
+            9,
+            5,
+            1,
+            9,
+            7,
+            8,
+            1
+        ],
+        "partial": 64,
+        "curs": 21,
+        "proiect": 26
+    },
+    "Petrescu Lenuta": {
+        "seminarii": [
+            10,
+            10,
+            2,
+            8,
+            3,
+            9,
+            6,
+            9,
+            10,
+            6,
+            7,
+            2,
+            9
+        ],
+        "partial": 61,
+        "curs": 99,
+        "proiect": 49
+    },
+    "Bistriceanu Lenuta": {
+        "seminarii": [
+            5,
+            10,
+            1,
+            5,
+            2,
+            2,
+            3,
+            9,
+            7,
+            6,
+            1,
+            9,
+            3
+        ],
+        "partial": 15,
+        "curs": 16,
+        "proiect": 33
+    },
+    "Boistean Vlad": {
+        "seminarii": [
+            3,
+            10,
+            5,
+            7,
+            5,
+            7,
+            1,
+            4,
+            8,
+            2,
+            6,
+            3,
+            1
+        ],
+        "partial": 21,
+        "curs": 65,
+        "proiect": 45
+    },
+    "Prelipcean Florentina": {
+        "seminarii": [
+            5,
+            1,
+            8,
+            9,
+            7,
+            4,
+            9,
+            6,
+            9,
+            8,
+            10,
+            2,
+            4
+        ],
+        "partial": 75,
+        "curs": 60,
+        "proiect": 56
+    },
+    "Suiu Lenuta": {
+        "seminarii": [
+            9,
+            9,
+            9,
+            10,
+            6,
+            7,
+            5,
+            2,
+            1,
+            1,
+            9,
+            2,
+            5
+        ],
+        "partial": 67,
+        "curs": 25,
+        "proiect": 29
+    },
+    "Spartan Ana": {
+        "seminarii": [
+            2,
+            9,
+            8,
+            8,
+            8,
+            6,
+            6,
+            4,
+            9,
+            5,
+            4,
+            9,
+            9
+        ],
+        "partial": 92,
+        "curs": 84,
+        "proiect": 64
+    },
+    "Calancea Florina": {
+        "seminarii": [
+            2,
+            4,
+            2,
+            7,
+            4,
+            6,
+            6,
+            2,
+            1,
+            2,
+            5,
+            9,
+            7
+        ],
+        "partial": 50,
+        "curs": 63,
+        "proiect": 49
+    },
+    "Suiu Ion": {
+        "seminarii": [
+            3,
+            2,
+            8,
+            7,
+            1,
+            8,
+            6,
+            7,
+            7,
+            9,
+            10,
+            1,
+            8
+        ],
+        "partial": 55,
+        "curs": 41,
+        "proiect": 40
+    },
+    "Hodor Cosmin": {
+        "seminarii": [
+            10,
+            3,
+            9,
+            3,
+            6,
+            4,
+            7,
+            4,
+            10,
+            6,
+            10,
+            2,
+            9
+        ],
+        "partial": 69,
+        "curs": 59,
+        "proiect": 15
+    },
+    "Soltuzu Bianca": {
+        "seminarii": [
+            8,
+            2,
+            2,
+            3,
+            2,
+            7,
+            4,
+            8,
+            9,
+            4,
+            9,
+            4,
+            7
+        ],
+        "partial": 73,
+        "curs": 11,
+        "proiect": 32
+    },
+    "Moale Ioana": {
+        "seminarii": [
+            8,
+            1,
+            10,
+            8,
+            7,
+            6,
+            2,
+            6,
+            7,
+            7,
+            6,
+            4,
+            2
+        ],
+        "partial": 24,
+        "curs": 90,
+        "proiect": 39
+    },
+    "Popoiu Georgeta": {
+        "seminarii": [
+            8,
+            5,
+            8,
+            8,
+            7,
+            3,
+            1,
+            3,
+            2,
+            3,
+            6,
+            7,
+            1
+        ],
+        "partial": 73,
+        "curs": 83,
+        "proiect": 24
+    },
+    "Stirbu Andreea": {
+        "seminarii": [
+            10,
+            10,
+            4,
+            8,
+            5,
+            7,
+            7,
+            7,
+            9,
+            2,
+            7,
+            1,
+            7
+        ],
+        "partial": 18,
+        "curs": 95,
+        "proiect": 29
+    },
+    "Leonte Ion": {
+        "seminarii": [
+            1,
+            5,
+            8,
+            8,
+            8,
+            6,
+            9,
+            8,
+            7,
+            10,
+            3,
+            3,
+            3
+        ],
+        "partial": 84,
+        "curs": 18,
+        "proiect": 49
+    },
+    "Stan Gabriela": {
+        "seminarii": [
+            6,
+            4,
+            8,
+            5,
+            6,
+            1,
+            6,
+            9,
+            6,
+            7,
+            2,
+            7,
+            7
+        ],
+        "partial": 77,
+        "curs": 31,
+        "proiect": 61
+    },
+    "Popescu Catalina": {
+        "seminarii": [
+            1,
+            1,
+            4,
+            9,
+            9,
+            10,
+            9,
+            5,
+            5,
+            4,
+            8,
+            5,
+            7
+        ],
+        "partial": 87,
+        "curs": 28,
+        "proiect": 38
+    },
+    "Leonte Gabi": {
+        "seminarii": [
+            7,
+            7,
+            2,
+            7,
+            5,
+            5,
+            9,
+            1,
+            9,
+            10,
+            1,
+            8,
+            5
+        ],
+        "partial": 67,
+        "curs": 93,
+        "proiect": 62
+    },
+    "Spinu Bianca": {
+        "seminarii": [
+            10,
+            8,
+            7,
+            8,
+            2,
+            10,
+            1,
+            4,
+            9,
+            4,
+            10,
+            3,
+            5
+        ],
+        "partial": 39,
+        "curs": 57,
+        "proiect": 69
+    },
+    "Prelipcean Alin": {
+        "seminarii": [
+            8,
+            2,
+            5,
+            4,
+            4,
+            2,
+            5,
+            2,
+            4,
+            6,
+            8,
+            7,
+            8
+        ],
+        "partial": 46,
+        "curs": 52,
+        "proiect": 62
+    },
+    "Neagu Ion": {
+        "seminarii": [
+            6,
+            4,
+            9,
+            6,
+            8,
+            9,
+            7,
+            6,
+            7,
+            5,
+            10,
+            7,
+            10
+        ],
+        "partial": 94,
+        "curs": 71,
+        "proiect": 26
+    },
+    "Suiu Vasilica": {
+        "seminarii": [
+            9,
+            4,
+            4,
+            1,
+            7,
+            5,
+            7,
+            1,
+            10,
+            2,
+            3,
+            1,
+            9
+        ],
+        "partial": 54,
+        "curs": 37,
+        "proiect": 17
+    },
+    "Lupascu Dana": {
+        "seminarii": [
+            7,
+            4,
+            3,
+            3,
+            10,
+            1,
+            9,
+            10,
+            1,
+            8,
+            4,
+            6,
+            9
+        ],
+        "partial": 39,
+        "curs": 96,
+        "proiect": 25
+    },
+    "Petric Bianca": {
+        "seminarii": [
+            8,
+            2,
+            4,
+            2,
+            7,
+            8,
+            1,
+            6,
+            2,
+            2,
+            9,
+            3,
+            9
+        ],
+        "partial": 33,
+        "curs": 58,
+        "proiect": 10
+    },
+    "Vieriu Dana": {
+        "seminarii": [
+            1,
+            9,
+            10,
+            10,
+            6,
+            8,
+            2,
+            4,
+            10,
+            1,
+            8,
+            6,
+            10
+        ],
+        "partial": 36,
+        "curs": 46,
+        "proiect": 28
+    },
+    "Leonte Andrei": {
+        "seminarii": [
+            5,
+            1,
+            3,
+            8,
+            10,
+            2,
+            1,
+            5,
+            4,
+            4,
+            6,
+            5,
+            2
+        ],
+        "partial": 58,
+        "curs": 54,
+        "proiect": 21
+    },
+    "Leonte Bogdan": {
+        "seminarii": [
+            10,
+            5,
+            1,
+            5,
+            5,
+            7,
+            9,
+            7,
+            8,
+            2,
+            7,
+            2,
+            5
+        ],
+        "partial": 67,
+        "curs": 34,
+        "proiect": 62
+    },
+    "Sorlescu Costica": {
+        "seminarii": [
+            3,
+            7,
+            5,
+            6,
+            9,
+            2,
+            2,
+            6,
+            9,
+            9,
+            3,
+            4,
+            9
+        ],
+        "partial": 79,
+        "curs": 77,
+        "proiect": 56
+    },
+    "Popescu Vasilica": {
+        "seminarii": [
+            9,
+            4,
+            7,
+            7,
+            9,
+            7,
+            7,
+            10,
+            7,
+            10,
+            9,
+            10,
+            7
+        ],
+        "partial": 47,
+        "curs": 76,
+        "proiect": 43
+    },
+    "Radu Gabriela": {
+        "seminarii": [
+            6,
+            9,
+            9,
+            2,
+            2,
+            9,
+            7,
+            3,
+            2,
+            3,
+            2,
+            1,
+            4
+        ],
+        "partial": 34,
+        "curs": 90,
+        "proiect": 13
+    },
+    "Petrescu Alin": {
+        "seminarii": [
+            3,
+            10,
+            8,
+            6,
+            5,
+            4,
+            4,
+            2,
+            2,
+            4,
+            3,
+            10,
+            1
+        ],
+        "partial": 82,
+        "curs": 85,
+        "proiect": 11
+    },
+    "Cadar Mihaela": {
+        "seminarii": [
+            5,
+            7,
+            1,
+            7,
+            9,
+            1,
+            1,
+            9,
+            8,
+            8,
+            3,
+            8,
+            2
+        ],
+        "partial": 94,
+        "curs": 15,
+        "proiect": 64
+    },
+    "Hodor Stefan": {
+        "seminarii": [
+            2,
+            2,
+            9,
+            1,
+            5,
+            2,
+            6,
+            7,
+            10,
+            9,
+            1,
+            5,
+            4
+        ],
+        "partial": 55,
+        "curs": 56,
+        "proiect": 15
+    },
+    "Hodor Ioana": {
+        "seminarii": [
+            5,
+            2,
+            3,
+            4,
+            3,
+            2,
+            4,
+            3,
+            7,
+            3,
+            5,
+            9,
+            10
+        ],
+        "partial": 97,
+        "curs": 96,
+        "proiect": 35
+    },
+    "Popa Vasile": {
+        "seminarii": [
+            8,
+            4,
+            4,
+            10,
+            10,
+            8,
+            3,
+            3,
+            1,
+            5,
+            8,
+            4,
+            9
+        ],
+        "partial": 45,
+        "curs": 21,
+        "proiect": 68
+    },
+    "Mustar Valentin": {
+        "seminarii": [
+            7,
+            2,
+            2,
+            4,
+            5,
+            4,
+            5,
+            9,
+            2,
+            5,
+            10,
+            10,
+            5
+        ],
+        "partial": 49,
+        "curs": 44,
+        "proiect": 70
+    },
+    "Stan Ana": {
+        "seminarii": [
+            4,
+            6,
+            4,
+            9,
+            4,
+            5,
+            2,
+            7,
+            7,
+            8,
+            7,
+            2,
+            8
+        ],
+        "partial": 72,
+        "curs": 25,
+        "proiect": 57
+    },
+    "Zoian Catalin": {
+        "seminarii": [
+            4,
+            5,
+            4,
+            6,
+            1,
+            10,
+            1,
+            3,
+            7,
+            9,
+            9,
+            8,
+            2
+        ],
+        "partial": 45,
+        "curs": 95,
+        "proiect": 16
+    },
+    "Bistriceanu Catalina": {
+        "seminarii": [
+            5,
+            3,
+            9,
+            3,
+            2,
+            3,
+            1,
+            7,
+            1,
+            5,
+            6,
+            5,
+            3
+        ],
+        "partial": 36,
+        "curs": 67,
+        "proiect": 58
+    },
+    "Moale Gabi": {
+        "seminarii": [
+            8,
+            8,
+            8,
+            9,
+            2,
+            1,
+            7,
+            1,
+            10,
+            6,
+            7,
+            5,
+            5
+        ],
+        "partial": 58,
+        "curs": 74,
+        "proiect": 32
+    },
+    "Corint Andreea": {
+        "seminarii": [
+            8,
+            2,
+            3,
+            8,
+            3,
+            9,
+            6,
+            7,
+            6,
+            4,
+            3,
+            9,
+            5
+        ],
+        "partial": 62,
+        "curs": 36,
+        "proiect": 68
+    },
+    "Cadar Catalin": {
+        "seminarii": [
+            9,
+            2,
+            3,
+            2,
+            1,
+            5,
+            8,
+            9,
+            7,
+            6,
+            9,
+            2,
+            7
+        ],
+        "partial": 17,
+        "curs": 76,
+        "proiect": 39
+    },
+    "Suiu Maricica": {
+        "seminarii": [
+            9,
+            5,
+            9,
+            1,
+            5,
+            8,
+            5,
+            10,
+            6,
+            10,
+            6,
+            5,
+            9
+        ],
+        "partial": 25,
+        "curs": 65,
+        "proiect": 33
+    },
+    "Popoiu Catalin": {
+        "seminarii": [
+            10,
+            10,
+            5,
+            9,
+            7,
+            1,
+            10,
+            9,
+            4,
+            2,
+            1,
+            4,
+            9
+        ],
+        "partial": 95,
+        "curs": 80,
+        "proiect": 38
+    },
+    "Carare Ioana": {
+        "seminarii": [
+            9,
+            5,
+            3,
+            2,
+            9,
+            3,
+            7,
+            10,
+            9,
+            7,
+            6,
+            7,
+            4
+        ],
+        "partial": 62,
+        "curs": 12,
+        "proiect": 24
+    },
+    "Vasilescu Valter": {
+        "seminarii": [
+            4,
+            8,
+            10,
+            7,
+            2,
+            8,
+            1,
+            6,
+            7,
+            3,
+            2,
+            9,
+            5
+        ],
+        "partial": 32,
+        "curs": 69,
+        "proiect": 68
+    },
+    "Sorlescu Radu": {
+        "seminarii": [
+            5,
+            5,
+            8,
+            1,
+            3,
+            10,
+            6,
+            2,
+            5,
+            3,
+            4,
+            9,
+            8
+        ],
+        "partial": 30,
+        "curs": 19,
+        "proiect": 32
+    },
+    "Suiu Radu": {
+        "seminarii": [
+            1,
+            3,
+            5,
+            3,
+            6,
+            10,
+            7,
+            4,
+            8,
+            8,
+            3,
+            2,
+            6
+        ],
+        "partial": 45,
+        "curs": 41,
+        "proiect": 33
+    },
+    "Radu Tinca": {
+        "seminarii": [
+            4,
+            6,
+            4,
+            4,
+            5,
+            4,
+            3,
+            9,
+            2,
+            10,
+            9,
+            5,
+            8
+        ],
+        "partial": 48,
+        "curs": 66,
+        "proiect": 24
+    },
+    "Filioreanu Andreea": {
+        "seminarii": [
+            5,
+            8,
+            8,
+            2,
+            3,
+            7,
+            3,
+            7,
+            5,
+            7,
+            2,
+            3,
+            8
+        ],
+        "partial": 89,
+        "curs": 21,
+        "proiect": 16
+    },
+    "Hodor Cristina": {
+        "seminarii": [
+            1,
+            9,
+            8,
+            8,
+            8,
+            10,
+            1,
+            2,
+            10,
+            9,
+            3,
+            4,
+            4
+        ],
+        "partial": 50,
+        "curs": 70,
+        "proiect": 63
+    },
+    "Stirbu Cristi": {
+        "seminarii": [
+            5,
+            9,
+            9,
+            4,
+            8,
+            10,
+            6,
+            1,
+            2,
+            4,
+            10,
+            1,
+            1
+        ],
+        "partial": 20,
+        "curs": 11,
+        "proiect": 20
+    },
+    "Boistean Bogdan": {
+        "seminarii": [
+            10,
+            4,
+            3,
+            2,
+            8,
+            6,
+            1,
+            7,
+            10,
+            9,
+            7,
+            6,
+            2
+        ],
+        "partial": 50,
+        "curs": 79,
+        "proiect": 53
+    },
+    "Panainte Ticu": {
+        "seminarii": [
+            1,
+            10,
+            2,
+            9,
+            7,
+            10,
+            4,
+            2,
+            4,
+            1,
+            6,
+            1,
+            5
+        ],
+        "partial": 61,
+        "curs": 36,
+        "proiect": 26
+    },
+    "Spinu Valter": {
+        "seminarii": [
+            7,
+            3,
+            10,
+            5,
+            5,
+            2,
+            8,
+            5,
+            3,
+            1,
+            2,
+            3,
+            8
+        ],
+        "partial": 15,
+        "curs": 10,
+        "proiect": 56
+    },
+    "Stan Catalin": {
+        "seminarii": [
+            3,
+            7,
+            7,
+            4,
+            4,
+            2,
+            5,
+            5,
+            7,
+            8,
+            9,
+            4,
+            7
+        ],
+        "partial": 10,
+        "curs": 31,
+        "proiect": 63
+    },
+    "Moromete Tinca": {
+        "seminarii": [
+            6,
+            8,
+            5,
+            3,
+            9,
+            2,
+            8,
+            9,
+            6,
+            5,
+            8,
+            6,
+            4
+        ],
+        "partial": 80,
+        "curs": 42,
+        "proiect": 41
+    },
+    "Spinu Viorel": {
+        "seminarii": [
+            3,
+            3,
+            6,
+            7,
+            8,
+            9,
+            2,
+            4,
+            6,
+            9,
+            3,
+            9,
+            8
+        ],
+        "partial": 42,
+        "curs": 59,
+        "proiect": 45
+    },
+    "Viteazu Catalin": {
+        "seminarii": [
+            7,
+            3,
+            2,
+            4,
+            5,
+            8,
+            10,
+            5,
+            1,
+            9,
+            2,
+            4,
+            9
+        ],
+        "partial": 11,
+        "curs": 94,
+        "proiect": 44
+    },
+    "Cadar Florentina": {
+        "seminarii": [
+            6,
+            7,
+            3,
+            1,
+            7,
+            1,
+            8,
+            6,
+            7,
+            3,
+            1,
+            3,
+            7
+        ],
+        "partial": 30,
+        "curs": 83,
+        "proiect": 29
+    },
+    "Vieriu Mihai": {
+        "seminarii": [
+            9,
+            9,
+            4,
+            8,
+            1,
+            10,
+            5,
+            9,
+            4,
+            9,
+            3,
+            7,
+            2
+        ],
+        "partial": 87,
+        "curs": 48,
+        "proiect": 46
+    },
+    "Calancea Alina": {
+        "seminarii": [
+            1,
+            9,
+            3,
+            7,
+            9,
+            2,
+            6,
+            9,
+            8,
+            2,
+            4,
+            6,
+            4
+        ],
+        "partial": 25,
+        "curs": 94,
+        "proiect": 54
+    },
+    "Cadar Alin": {
+        "seminarii": [
+            5,
+            5,
+            6,
+            10,
+            2,
+            8,
+            10,
+            2,
+            2,
+            10,
+            10,
+            4,
+            8
+        ],
+        "partial": 15,
+        "curs": 67,
+        "proiect": 70
+    },
+    "Lupascu Florin": {
+        "seminarii": [
+            9,
+            4,
+            3,
+            5,
+            7,
+            1,
+            5,
+            1,
+            3,
+            5,
+            10,
+            1,
+            5
+        ],
+        "partial": 32,
+        "curs": 54,
+        "proiect": 16
+    },
+    "Mustar Mirabela": {
+        "seminarii": [
+            6,
+            3,
+            4,
+            10,
+            5,
+            9,
+            7,
+            4,
+            6,
+            6,
+            1,
+            2,
+            2
+        ],
+        "partial": 26,
+        "curs": 87,
+        "proiect": 56
+    },
+    "Bistriceanu Mioara": {
+        "seminarii": [
+            4,
+            8,
+            9,
+            6,
+            1,
+            3,
+            1,
+            8,
+            7,
+            1,
+            9,
+            9,
+            10
+        ],
+        "partial": 36,
+        "curs": 41,
+        "proiect": 43
+    },
+    "Popescu Sorana": {
+        "seminarii": [
+            6,
+            4,
+            3,
+            7,
+            9,
+            8,
+            10,
+            10,
+            6,
+            6,
+            9,
+            5,
+            4
+        ],
+        "partial": 86,
+        "curs": 70,
+        "proiect": 25
+    },
+    "Borcea Valentin": {
+        "seminarii": [
+            2,
+            7,
+            7,
+            3,
+            9,
+            9,
+            8,
+            9,
+            1,
+            8,
+            5,
+            9,
+            5
+        ],
+        "partial": 63,
+        "curs": 92,
+        "proiect": 40
+    },
+    "Lotru Andreea": {
+        "seminarii": [
+            7,
+            10,
+            10,
+            3,
+            2,
+            5,
+            4,
+            10,
+            7,
+            7,
+            1,
+            8,
+            6
+        ],
+        "partial": 35,
+        "curs": 78,
+        "proiect": 16
+    },
+    "Soltuzu Costica": {
+        "seminarii": [
+            8,
+            1,
+            7,
+            9,
+            4,
+            5,
+            8,
+            10,
+            6,
+            8,
+            4,
+            1,
+            4
+        ],
+        "partial": 60,
+        "curs": 40,
+        "proiect": 35
+    },
+    "Livadariu Mihai": {
+        "seminarii": [
+            10,
+            1,
+            5,
+            7,
+            7,
+            10,
+            2,
+            6,
+            9,
+            9,
+            7,
+            1,
+            10
+        ],
+        "partial": 90,
+        "curs": 93,
+        "proiect": 17
+    },
+    "Trandabat Valentin": {
+        "seminarii": [
+            2,
+            4,
+            2,
+            4,
+            9,
+            6,
+            10,
+            3,
+            1,
+            2,
+            10,
+            1,
+            3
+        ],
+        "partial": 97,
+        "curs": 63,
+        "proiect": 34
+    },
+    "Borcea Alin": {
+        "seminarii": [
+            10,
+            4,
+            1,
+            2,
+            3,
+            5,
+            2,
+            2,
+            2,
+            8,
+            3,
+            7,
+            5
+        ],
+        "partial": 21,
+        "curs": 58,
+        "proiect": 40
+    },
+    "Lotru Florentina": {
+        "seminarii": [
+            6,
+            5,
+            5,
+            9,
+            8,
+            7,
+            2,
+            3,
+            2,
+            3,
+            8,
+            4,
+            10
+        ],
+        "partial": 95,
+        "curs": 100,
+        "proiect": 52
+    },
+    "Vieriu Florina": {
+        "seminarii": [
+            9,
+            10,
+            5,
+            10,
+            2,
+            6,
+            4,
+            2,
+            1,
+            1,
+            9,
+            5,
+            5
+        ],
+        "partial": 12,
+        "curs": 56,
+        "proiect": 64
+    },
+    "Moromete Lenuta": {
+        "seminarii": [
+            1,
+            6,
+            1,
+            9,
+            8,
+            7,
+            3,
+            7,
+            9,
+            10,
+            9,
+            6,
+            4
+        ],
+        "partial": 88,
+        "curs": 18,
+        "proiect": 10
+    },
+    "Popescu Gabi": {
+        "seminarii": [
+            6,
+            7,
+            8,
+            8,
+            3,
+            7,
+            4,
+            1,
+            6,
+            3,
+            6,
+            4,
+            1
+        ],
+        "partial": 16,
+        "curs": 41,
+        "proiect": 40
+    },
+    "Prelipcean Ana": {
+        "seminarii": [
+            4,
+            4,
+            6,
+            9,
+            1,
+            8,
+            8,
+            8,
+            4,
+            3,
+            3,
+            5,
+            10
+        ],
+        "partial": 82,
+        "curs": 23,
+        "proiect": 13
+    },
+    "Popa Gabriela": {
+        "seminarii": [
+            8,
+            2,
+            8,
+            3,
+            10,
+            2,
+            1,
+            5,
+            7,
+            7,
+            8,
+            1,
+            7
+        ],
+        "partial": 100,
+        "curs": 36,
+        "proiect": 47
+    },
+    "Hodor Radu": {
+        "seminarii": [
+            9,
+            2,
+            2,
+            3,
+            6,
+            4,
+            10,
+            10,
+            6,
+            6,
+            6,
+            3,
+            8
+        ],
+        "partial": 57,
+        "curs": 53,
+        "proiect": 27
+    },
+    "Petrescu Valter": {
+        "seminarii": [
+            7,
+            4,
+            2,
+            10,
+            2,
+            2,
+            7,
+            3,
+            1,
+            1,
+            3,
+            8,
+            4
+        ],
+        "partial": 19,
+        "curs": 21,
+        "proiect": 60
+    },
+    "Leonte Sorin": {
+        "seminarii": [
+            2,
+            4,
+            8,
+            5,
+            6,
+            4,
+            7,
+            5,
+            10,
+            6,
+            8,
+            5,
+            5
+        ],
+        "partial": 80,
+        "curs": 30,
+        "proiect": 17
+    }
+}

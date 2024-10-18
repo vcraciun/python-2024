@@ -1,0 +1,630 @@
+                              
+                              
+                              
+                              
+                              
+                             o
+                             o
+                             o
+                             o
+                             o
+                           o o
+                           o o
+                           ooo
+                           ooo
+                        o  ooo
+                        o  ooo
+                        o  ooo
+                        o  ooo
+                        o  ooo
+                        o  ooo
+                        o  ooo
+                        o  ooo
+                        o  ooo
+                        o oooo
+                        o oooo
+                        o oooo
+                        o oooo
+                        o oooo
+                        o oooo
+                        o oooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+                       ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o              ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o       ooooooo
+        o      o      oooooooo
+        o      o      oooooooo
+        o      o   o  oooooooo
+        o      o  oo  oooooooo
+        o      o  oo  oooooooo
+        o      o  oo  oooooooo
+        o      o  oo  oooooooo
+        o      o  oo  oooooooo
+      o o      o  oo  oooooooo
+      o o      o  oo  oooooooo
+      o o      o  oo  oooooooo
+      o o      o  oo  oooooooo
+      o o      o  oo  oooooooo
+      o o      o  oo  oooooooo
+      o o      o  oo  oooooooo
+      o o o    o  oo  oooooooo
+      o o o    o  oo  oooooooo
+      o o o    o  oo  oooooooo
+      o o o    o  oo  oooooooo
+      o o o    o  oo  oooooooo
+      o o o   oo  oo  oooooooo
+      o o o   oo  oo  oooooooo
+      o o o   ooo oo  oooooooo
+      o o oo  ooo oo  oooooooo
+      o o oo  ooo oo  oooooooo
+      o o oo  ooo oo  oooooooo
+      o o oo  ooo oo  oooooooo
+      o o oo  ooo oo  oooooooo
+      o o oo  ooo oo  oooooooo
+      o o oo  ooo ooo oooooooo
+      o o oo  ooo ooo oooooooo
+      o o oo  ooo ooo oooooooo
+      o o oo  ooooooo oooooooo
+      o o oo  ooooooo oooooooo
+      o o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+     oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+ o   oo o ooo ooooooo oooooooo
+oo   oo o ooo ooooooo oooooooo
+oo   oo o ooo ooooooo oooooooo
+oo   oo o ooo ooooooo oooooooo
+oo   oo o ooo ooooooo oooooooo
+oo   oo o ooo ooooooo oooooooo
+oo   oo o ooo oooooooooooooooo
+oo   oo o ooo oooooooooooooooo
+oo   oo o ooo oooooooooooooooo
+oo   oo o ooo oooooooooooooooo
+oo   oo o ooo oooooooooooooooo
+oo   oo o ooo oooooooooooooooo
+oo   oo o ooo oooooooooooooooo
+oo   oo o ooo oooooooooooooooo
+oo   oo o ooo oooooooooooooooo
+oo   oo o ooo oooooooooooooooo
+oo   oo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooo o ooo oooooooooooooooo
+oo  ooooo ooo oooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo  ooooo oooooooooooooooooooo
+oo oooooo oooooooooooooooooooo
+oo oooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+ooooooooo oooooooooooooooooooo
+spartnoemi27916054l83cubgdvhfz
