@@ -1,0 +1,107 @@
+graph: {
+title: "ARBORE"
+manhattan_edges : yes
+layoutalgorithm : maxdepth
+finetuning : no
+layout_downfactor : 100
+layout_upfactor : 0
+layout_nearfactor : 0
+xlspace : 15
+yspace : 90
+// IDA palette
+colorentry 32 : 0 0 0
+colorentry 33 : 0 0 255
+colorentry 34 : 0 0 255
+colorentry 35 : 128 128 128
+colorentry 36 : 128 128 128
+colorentry 37 : 0 0 128
+colorentry 38 : 0 0 128
+colorentry 39 : 0 0 255
+colorentry 40 : 0 0 255
+colorentry 41 : 0 0 128
+colorentry 42 : 0 128 0
+colorentry 43 : 0 255 0
+colorentry 44 : 0 128 0
+colorentry 45 : 255 128 0
+colorentry 46 : 0 128 0
+colorentry 47 : 128 128 255
+colorentry 48 : 255 0 0
+colorentry 49 : 128 128 0
+colorentry 50 : 1 1 1
+colorentry 51 : 192 192 192
+colorentry 52 : 0 0 255
+colorentry 53 : 0 0 255
+colorentry 54 : 0 0 255
+colorentry 55 : 128 128 128
+colorentry 56 : 128 128 255
+colorentry 57 : 0 128 0
+colorentry 58 : 0 0 128
+colorentry 59 : 0 0 255
+colorentry 60 : 128 0 128
+colorentry 61 : 0 128 0
+colorentry 62 : 0 128 0
+colorentry 63 : 0 128 64
+colorentry 64 : 0 0 128
+colorentry 65 : 0 0 128
+colorentry 66 : 255 0 255
+colorentry 67 : 128 128 0
+colorentry 68 : 0 0 128
+colorentry 69 : 0 0 255
+colorentry 70 : 0 0 128
+colorentry 71 : 0 0 255
+colorentry 72 : 0 0 0
+colorentry 73 : 255 255 255
+colorentry 74 : 192 187 175
+colorentry 75 : 0 255 255
+colorentry 76 : 0 0 0
+colorentry 77 : 128 0 0
+colorentry 78 : 128 128 128
+colorentry 79 : 128 128 0
+colorentry 80 : 255 0 255
+colorentry 81 : 255 255 0
+colorentry 82 : 0 0 255
+colorentry 83 : 0 0 0
+node: {
+title: "n01"
+label: "13"}
+node: {
+title: "n03"
+label: "*"}
+node: {
+title: "n02"
+label: "2"}
+node: {
+title: "n05"
+label: "-"}
+node: {
+title: "n04"
+label: "11"}
+node: {
+title: "n11"
+label: "+"}
+node: {
+title: "n06"
+label: "5"}
+node: {
+title: "n10"
+label: "+"}
+node: {
+title: "n07"
+label: "21"}
+node: {
+title: "n09"
+label: "/"}
+node: {
+title: "n08"
+label: "7"}
+edge: {sourcename: "n11" targetname: "n05" color: 48}
+edge: {sourcename: "n05" targetname: "n03" color: 48}
+edge: {sourcename: "n03" targetname: "n01" color: 48}
+edge: {sourcename: "n03" targetname: "n02" color: 33}
+edge: {sourcename: "n05" targetname: "n04" color: 33}
+edge: {sourcename: "n11" targetname: "n10" color: 33}
+edge: {sourcename: "n10" targetname: "n06" color: 48}
+edge: {sourcename: "n10" targetname: "n09" color: 33}
+edge: {sourcename: "n09" targetname: "n07" color: 48}
+edge: {sourcename: "n09" targetname: "n08" color: 33}
+}
