@@ -1,0 +1,35 @@
+1. se da un folder cu imagini BMP (AsciiArt) la rezolutile mica (~75x75)
+   transformati pozele in echivalentul ASCII TEXT si scrieti rezultatul in fisierul fisier.txt pentru fisier.bmp
+   Formatul BMP este descris aici
+   https://en.wikipedia.org/wiki/BMP_file_format
+   
+2. pornind de la descrierea formatului BMP anterior, generati un bargraph reprezentand o histograma pentru urmatoarele valori: [41,33,19,52,10,10,30,39,61,44] cu urmatoarele specificatii
+- bpp = 24 (3 bytes)
+- width = 200
+- height = 150
+- bar_width = 10
+- bar_gap = 10
+- bar_color = "black" 0x000000
+- bar y start at bottom y=199
+- bar x left start at x=0
+- bar x pixels per increment = 3
+Folositi matplotlib pentru a face acelasi lucru.
+
+3. Se da fisierul text "input.txt" si fisierul "words.txt". Fom folosi fisierul "words.txt" pentru a cauta
+cuvintele din el, in fisierul "input.txt". Vom afisa cuvantul si prima si ultima pozitie in secventa de
+cuvinte. Executia nu poate dura mai mult de 1-3 secunde. 
+Exemplu:
+fisierul "input.txt" contine: "Vara trecuta am mers la munte. Acolo am vizitat 2 parcuri, o gradina
+botanica si una zoologica. Niciodata nu am vizitat atat de multe lucruri intr-o singura calatorie. Ba
+chiar am reusit sa vizitez si niste localitati vecine."
+Secventa de cuvinte este: ["Vara", "trecuta", "am", "mers", "la", "munte", "Acolo", "am", "vizitat", "2", "parcuri", "o", "gradina", "botanica", "si", "una", "zoologica", "Niciodata", "nu", "am", "vizitat", "atat", "de", "multe", "lucruri", "intro", "singura", "calatorie", "Ba", "chiar", "am", "reusit", "sa", "vizitez", "si", "niste", "localitati", "vecine"]
+Fisierul "words.txt" contine: "si am".
+Rezultat: [(“si”, 14, 34), (“am”, 2, 30)]
+
+4. Se da un fisier cu 1000000 numere fiecare pe 32 biti (4 bytes), si un fisier cu 1023 de numere in
+format hex string, cate unul pe linie. Verificati daca cele 1023 de numere se regasesc printre cele 1000000 de numere. Generati un tabel 32x32 in care sa avem '1' daca exista valoarea si '0' daca nu exista. 
+In tabel elementul 0 sau 1 din stanga sus corespunde primului numar verificat, iar cel din stanga jos ultimului numar verificat. Fisierul cu cele 1000000 de numere se numeste numbers.bin si contine valorile numerice insiruite consecutiv byte cu byte. Pentru a le extrage trebuie sa luam din 4 in 4 bytes si sa convertim numeric cu formatul little-endian.
+
+Fisierul cu cele 1023 de numere de cautat se numeste search_for_numbers.txt si contine valorile numerice ce trebuie cautate, in format hex string, cate 1 pe linie.
+
+Timpul total de cautare nu poate depasi 1-3 secunde.
