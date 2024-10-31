@@ -33,3 +33,19 @@ In tabel elementul 0 sau 1 din stanga sus corespunde primului numar verificat, i
 Fisierul cu cele 1023 de numere de cautat se numeste search_for_numbers.txt si contine valorile numerice ce trebuie cautate, in format hex string, cate 1 pe linie.
 
 Timpul total de cautare nu poate depasi 1-3 secunde.
+
+5. Folosind alfabetul "9876543210qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP" si urmatorul cod pentru generat numere random, s-a creat o parola de 64 de caractere cu care s-a arhivat un folder cu poze. Aflati parola si dezarhivati continutul. 
+Exemplu utilizare PRNG:  
+rand = PRNG(0)
+passw = "".join([alfabet[int(rand.random()*100) % len(alfabet)] for i in range(64)])
+
+class PRNG:
+    def __init__(self, seed = 327680):
+        self.seed = seed
+        self.a = 4291010243
+        self.c = 179203
+
+    def random(self):
+        self.seed = (self.a - self.seed * self.c) % 16777216
+        rnd = self.seed / 16777216
+        return rnd
