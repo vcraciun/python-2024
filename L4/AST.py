@@ -36,6 +36,7 @@ class Node:
         fisier_gdl += "}\n"
         with open("ceva.gdl", 'w') as f:
             f.write(fisier_gdl)  
+
 def eval(node):
     if isinstance(node.data,(int,float)):
         return node.data
@@ -51,10 +52,10 @@ def eval(node):
 def print_ast(node,level=0):
     indent=' '*(level*2)
     if node:
-        print(f"{indent}{node.data}")
         if node.left:
             print(f"{indent}Left:")
             print_ast(node.left,level+1)
+        print(f"{indent}{node.data}")
         if node.right:
             print(f"{indent}Right:")
             print_ast(node.right,level+1)

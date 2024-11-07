@@ -1,0 +1,7 @@
+1. bruteforce RNG, cu multiple procese
+2. youtube playlist download cu multiple procese
+3. CUI - dupa model
+4. pretty-print tree cu visitors
+   - format GDL
+   - format indentat
+   - format binar
