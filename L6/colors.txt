@@ -1,0 +1,20 @@
+1 - dark blue
+2 - dark green
+3 - cyan
+4 - dark red
+5 - pink
+6 - olive
+7 - light gray
+8 - dark gray
+9 - light blue
+10- lime
+11- ligt blue
+12- light red
+13- purple
+14- yellow
+15- white
+
+0x1F 
+  ||________ 15 - white foreground
+  |
+  |_________ 1  - dark blue background
