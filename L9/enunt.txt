@@ -1,0 +1,50 @@
+Fie 2 matrici patratice a caror elemente sunt multimi de numere de forma:
+
+A:
+{4,8,2} {16,1,2,4} {32,256} {1,2}
+{1,8} {2,4,8} {2} {8,256}
+{16,64} {1024,256,4} {8,16,512} {4,8,128}
+{4,8,256} {64,1,2048} {32,64,2,8} {256,1,8,2,4}
+
+B:
+{4,2} {32,1,8} {16,1} {2,4,128}
+{1,2,4} {2,128,512} {4,8} {16,64,1}
+{32,64,128} {1,4,32} {8} {4,2,128,512}
+{8,256,16,1} {1,16,32,1024} {1,4,16,64} {1024}
+
+Definim operatorul & pentru matricile A si B care:
+Calculeaza matricea C = A & B, a carei componente vor fi intersectiile elementelor (multimile) de pe aceleasi pozitii
+Matricea C se va scrie similar ca si A sau B, intr-un alt fisier
+
+Specificatii:
+1. Matricile se citesc dintr-un fisier, succesiv, cu 1 rand liber intre matrici (numele matricilor nu sunt importante, iar dimensiunea matricilor trebuie dedusa din fisiere, nu exista un camp special pentru asta)
+2. Dimensiunea NxN a matricilor este aceeasi la toate matricile implicate si NU poate depasi 5000x5000 (N max = 5000)
+3. Orice element din matrice poate avea
+   minim - nici un element
+   maxim - 32 de elemente separate prin virgula
+4. Orice element dintr-o multime poate fi
+   minim - 1
+   maxim - 2147483648
+5. toate numerele (daca multimea nu este vida) sunt > 0
+6. matricile de intrare se citesc din fisierul "matrici.txt"
+7. rexultatul se va scrie in fisierul "result.txt"
+
+Exemplu de solutie pentru cazul dat:
+{2,4} {1} {} {2} 
+{1} {2} {} {} 
+{64} {4} {8} {4,128} 
+{8,256} {1} {64} {} 
+
+PS: Solutia implementata trebuie sa mearga mai rapid decat solutia verificatorului, nu doar sa fie corecta
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Problema contine un verificator care permite 3 parametri:
+1. make (creaza 2 matrici random cu aceleasi dimensiuni pentru rezolvare)
+2. make N (creeaza 2 matrici cu size NxN)
+3. solve (calculeaza solutia corecta si scrie rezultatul in fisierul "my_result.txt")
+4. check app.exe (compara corectitudinea si timpul de executie generand matrici random [se compara solutia verificatorului cu app.exe])
+5. check-all app.exe (genereaza 11 seturi de date si compara solutia verificatorului cu solutia din app.exe si genereaza un scor la final)
+6. solver.exe check "solver.exe solve"  --> compara solverul cu el insusi
+
+
