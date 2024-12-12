@@ -1,0 +1,73 @@
+Labirint
+
+Descriere labirint:
+Un labirint este format dintr-o matrice NxN, unde N este impar
+O matrice contine urmatoarele caractere:
+'#' - zid
+'.' - spatiu liber
+'S' - pozitia de start
+'X' - pozitia destiantie
+
+Solutia unui labirint este data de o insiruire de caractere "UDLR":
+U: UP
+D: DOWN
+L: LEFT
+R: RIGHT
+
+De exemplu solutia urmatorului labirint este: "DDDLL" deorece S poate ajunge la X (in numarul cel mai mic de pasi) doar prin acesti pasi, o solutia mai complicata si ne-acceptata ar mai fi "DDDRRLLLL"
+#######
+#..#..#
+#.#S.##
+#.#...#
+#.#.###
+#X....#
+#######
+
+Este garantat faptul ca orice labirint are fie o solutie unica, fie mai multe solutii astfel incat 2 solutii nu au aceeasi dimensiune.
+Astfel ca urmatorul labirint este invalid deoarece are 2 solutii identice ca dimensiune: "LDDR" si "RDDL"
+#####
+#.S.#
+#.#.#
+#.X.#
+#####
+
+Rezolvrea unei provocari presupune de fapt rezolvarea a 8 labirinte diferite, toate avand aceleasi dimensiuni
+Labirintele se afla in fisiere cu numele "in_k.bin" unde k este indexul labirintului 0<=k<=7
+Rezolvarea labirintului k va produce fisierul "out_k.bin" care va contine secventa de pasi pentru ca S sa ajunga peste X
+Implementarea se face strict x86 (32 bit indiferent de limbajul folosit), fara a customiza partea de linkare (fortarea aplicatiilor pe 32 biti sa utilizeze >2GB RAM), este permisa totusi folosirea optimizarilor de compilare daca simtiti ca sunt necesare
+
+-------------------------------------------------------------------------------------------------
+Probleme de rezolvat:
+Pentru primele 3 probleme, solutia este garantat unica, pentru problema 4, solutia este garantat multipla asa cum s-a descris mai sus.
+
+Sa se rezolve urmatoarea provocare:
+   - Se dau 8 serii a cate 8 labirinte fiecare (8x8=64 de labirinte)
+     - in orice serie, labirintele au N acelasi (de exemplu seria 4 are toate labirintele de acelasi size NxN)
+     - intre serii N este diferit (pentru ca difera complexitatea), iar o serie cu index mai mare, are N mai mare
+   - in toate seriile, doar primul labirint din prima serie este plain-text, celelalte sunt criptate
+   - fata de problemele 1,2,3 care aveau soltuie unica, de data asta este garantat faptul ca labirintele au solutie multipla si nu exista 2 solutii cu aceeasi dimensiune
+   - cheia de criptare a labirintului k, k>1 este CRC32(Solutie(k-1)) unde Solutie(k-1) se refera la continutul fisierului out_k-1.bin
+   - pentru verificare CRC32, se poate folosi si GVIEW, hash-ul ar trebui sa fie echivalent cu CRC32(-1)
+     Ex: CRC32 pentru sirul de caractere "RRRDDDDLLUU" este 0549A1B6 (doar ceea ce se afla intre "")
+   - pentru testare se poate folosi parametrul encrypt pe un labirint decriptat, pentru a vedea ca rezultatul criptarii este acelasi cu cel de dinainte de decriptare; utilizarea repatata a functiei de criptare face cand criptare, cand decriptare pentru ca functia de criptare este simetrica
+   - labirintul in_0.bin din seria 1 se decripteaza cu cheia obtinuta pentru out_7.bin din seria 0  
+   - cheia obtinuta pentru out_7.bin din ultima serie, este parola de dezarhivare a unei carti arhivate zip, cu parola
+   - algoritmul de criptare folosit este RC4, iar cheile de criptare sunt valori hex CRC32 cu size 8, in format ASCII
+   - in caz ca primele cifre ale hash-ului incep cu 0, dimensiunea finala tot 8 va fi: 0x0007FA14 = "0007FA14"
+   - deoarece labirintele au solutie multipla, solutia acceptata este cea cu dimensiunea cea mai mica:
+     intre solutiile "LDDDR", "LLDDDRR" si "RURDDDDDLUL", solutia acceptata este "LDDDR" pentru ca este cea mai mica
+
+   Langa aplicatie, fisierele de intrare vor fi organizate in 8 foldere pentru problema 4:
+   1_21
+   2_101
+   3_301
+   4_501
+   5_1001
+   6_1501
+   7_2001
+   8_2401
+
+   Pe langa aceste foldere exista si cartea arhivata zip si protejata cu parola
+   Parola care se potriveste la arhiva este hash-ul CRC32 pentru fisierul out_7.bin din folderul 8_2401
+
+Warning:  PROBLEMA SE POATE REZOLVA IN 4 MODURI DIFERITE, sa trisati cum stiti mai bine, sa utilizati algoritmi publici ...............
