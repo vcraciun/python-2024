@@ -1,0 +1,12 @@
+1. Se dau fisierele json din folderul fish_tracking.
+   Fiecare fisier json este o lista de tuple de forma (index_frame, pos_x, pos_y) care descriu miscarea unui peste intr-un acvariu in forma de T
+   Folositi libraria opencv pentru a genera 2 filmulete care simuleaza miscarea mpestelui
+   a) in primul filmulet vom desena cu o linie verde subtire, punctele care apar in json, conectand efectiv punctele (x,y) intre ele, la viteza de 30 frames/s
+   b) in al 2-lea filmulet care are loc in acelasi timp cu primul, acolo unde se afla pestele la un moment dat vom considera un cerc plin de raza 10 pentru a descrie un heatmap.
+      Cu cat pestele sta mai mult intr-o zona cu atat culoarea de forma cercurlui cu raza 10, va deveni mai rosie, iar cu cat sta mai putin va ramane albastru vag
+   Exemple de tracking cu linie verde si heatmap ce ar trebui obtinute, se gasesc in folderul Exemple-tracking
+
+2. Similar cu clusterizarea facuta acum cateva laboratoare, faceti acelasi lucru pe seama datelor din tabelul zebra_all_features.csv
+   Acest fisier contine pe linii, cate o inregistrare vireo cu un peste care se misca intr-un acvariu de tip T, similar cu primul exercitiu, iar pe coloane, o serie de features specifice miscarii pestelui
+   Aceste features includ casete template traversate, miscari bruste, viteza, directii de miscare, .....
+   Folositi distanta K-Shape cu K-Means ca sa grupati feature-urile (considerate time-series), si plotati clusterele obtinute (cel mai mic numar de clustere posibil este 4 iar maxim 15)
